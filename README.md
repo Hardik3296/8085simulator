@@ -1,4 +1,4 @@
-#8085-Emulator
+# 8085-Emulator
 
 This project is the basic implementation of 8085 microprocessor. It runs some basic commands like: -
 
